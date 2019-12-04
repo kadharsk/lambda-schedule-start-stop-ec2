@@ -4,8 +4,8 @@ stop and start EC2 instances automatically by using Lambda Functions Depends on 
 for this task purpose we have to follow below steps
 1) create an IAM roles and attach policy 
 
-{\n
-    "Version": "2012-10-17",\n
+{ \n
+    "Version": "2012-10-17", \n
     "Statement": [\n
         {\n
             "Sid": "Stmt1444812758000",\n
